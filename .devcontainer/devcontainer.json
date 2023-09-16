@@ -1,0 +1,10 @@
+{
+    "name": "first",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
